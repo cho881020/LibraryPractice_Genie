@@ -23,7 +23,7 @@ class MainActivity : AppCompatActivity() {
 
 //        인터넷에 있는 이미지 (https:///...) 를 이미지뷰에 바로 대입.
 
-        Glide.with(this).load("https://neppplus.com/images/academy/pc_class_thumb_android.png").into(lectureImg1)
+        Glide.with(this).load("http://neppplus.com/images/academy/pc_class_thumb_android.png").into(lectureImg1)
 
 
     }
